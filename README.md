@@ -1,6 +1,16 @@
-# -scanning-uhf-tags
-application for scanning uhf tags.
-The application has several pages:
-1 - Tasks (list of cars to be assigned a uhf tags)
-2 - Form for scanning uhf tags (the form that opens when you press the task, in this form it is possible to scan uhf tags. After the label scannability, this label can be assigned to the car)
-3 - Settings (this page configures access to the task database, scanner power, number of tasks displayed on the page)
+# uhf_scan
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
